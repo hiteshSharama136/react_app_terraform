@@ -1,0 +1,10 @@
+aws_region     = "us-east-1"
+s3_bucket_name = "my-react-app-test-bucket-2025"
+environment    = "test"
+
+github_owner               = "hiteshSharama136"
+github_repo                = "react_app_CICD"
+github_branch              = "master"
+s3_bucket                  = "my-react-app-test-bucket-2025"
+cloudfront_distribution_id = "E1YOKCCRATAV8Y"
+github_token_secret_name   = "github-token"
